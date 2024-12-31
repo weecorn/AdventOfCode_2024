@@ -39,3 +39,8 @@ Your actual left and right lists contain many location IDs. What is the total di
 
 
 
+Problem breakdown:
+- read input file
+- sort provided sequence
+- calculate distances
+- calculate total distance
